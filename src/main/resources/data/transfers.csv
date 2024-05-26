@@ -1,0 +1,250 @@
+id,playerName,age,position,marketValue,previousClub,newClub,price,season,date,cleanSheets,savesPercentage,goalieErrors,tacklesWon,interceptions,cleaners,goals,assists,chancesCreated,successRate
+1,D. Rice,24,DM,€90.00m,West Ham,Arsenal FC,€116.60m,23-24,summer,0,0,0,6,5,5,0,0,0,88.89
+2,K. Havertz,24,AM,€55.00m,Chelsea,Arsenal FC,€75.00m,23-24,summer,0,0,0,0,0,0,23,24,45,92.3
+3,J. Timber,22,CB,€42.00m,Ajax,Arsenal FC,€40.00m,23-24,summer,0,0,0,4,4,6,0,0,0,77.78
+4,F. Balogun,22,CF,€30.00m,Arsenal FC,Monaco,€30.00m,23-24,summer,0,0,0,0,0,0,22,20,48,87.85
+5,G. Xhaka,30,DM,€20.00m,Arsenal FC,B. Leverkusen,€15.00m,23-24,summer,0,0,0,6,4,5,0,0,0,83.33
+6,M. Turner,29,GK,€9.00m,Arsenal FC,Nottm Forest,€8.15m,23-24,summer,24,86,4,0,0,0,0,0,0,66.44
+7,P. Marí,29,CB,€5.00m,Arsenal FC,Monza,€6.20m,23-24,summer,0,0,0,3,1,1,0,0,0,27.78
+8,A. Trusty,24,CB,€8.00m,Arsenal FC,Sheff Utd,€5.80m,23-24,summer,0,0,0,4,4,3,0,0,0,61.11
+9,R. Holding,27,CB,€5.00m,Arsenal FC,Crystal Palace,€1.20m,23-24,summer,0,0,0,1,2,1,0,0,0,22.22
+10,N. Pépé,28,RW,€10.00m,Arsenal FC,Trabzonspor,free transfer,23-24,summer,0,0,0,0,0,0,15,15,36,62.96
+11,A. Maitland-Niles,25,RM,€7.00m,Arsenal FC,Olympique Lyon,free transfer,23-24,summer,0,0,0,0,0,0,14,11,23,46.67
+12,M. Diaby,24,RW,€50.00m,B. Leverkusen,Aston Villa,€55.00m,23-24,summer,0,0,0,0,0,0,25,25,44,95.56
+13,P. Torres,26,CB,€45.00m,Villarreal,Aston Villa,€33.00m,23-24,summer,0,0,0,5,4,5,0,0,0,77.78
+14,Y. Tielemans,26,CM,€25.00m,Leicester,Aston Villa,free transfer,23-24,summer,0,0,0,5,4,5,0,0,0,77.78
+15,C. Archer,21,CF,€15.00m,Aston Villa,Sheff Utd,€21.55m,23-24,summer,0,0,0,0,0,0,20,18,35,72.89
+16,J. Philogene,21,LW,€15.00m,Aston Villa,Hull City,€5.80m,23-24,summer,0,0,0,0,0,0,17,18,31,65.93
+17,M. Nakamba,29,DM,€5.00m,Aston Villa,Luton,€2.90m,23-24,summer,0,0,0,3,2,3,0,0,0,44.44
+18,K. Davis,25,CF,€3.00m,Aston Villa,Udinese Calcio,€2.30m,23-24,summer,0,0,0,0,0,0,1,5,5,8.0
+19,A. Young,38,LB,€600k,Aston Villa,Everton,free transfer,23-24,summer,0,0,0,1,0,1,0,0,0,11.11
+20,Wesley Moraes,26,CF,€1.00m,Aston Villa,Stoke City,?,23-24,summer,0,0,0,0,0,0,3,5,5,10.67
+21,Jed Steer,30,GK,€400k,Aston Villa,Without Club,-,23-24,summer,15,78,3,0,0,0,0,0,0,47.78
+22,T. Adams,24,DM,€18.00m,Leeds,AFC Bournemouth,€26.90m,23-24,summer,0,0,0,4,4,4,0,0,0,66.67
+23,H. Traorè,23,AM,€22.00m,Sassuolo,AFC Bournemouth,€25.62m,23-24,summer,0,0,0,0,0,0,20,20,41,80.0
+24,A. Scott,19,CM,€20.00m,Bristol City,AFC Bournemouth,€23.00m,23-24,summer,0,0,0,5,6,4,0,0,0,83.33
+25,M. Kerkez,19,LB,€15.00m,AZ Alkmaar,AFC Bournemouth,€17.87m,23-24,summer,0,0,0,5,4,3,0,0,0,66.67
+26,R. Faivre,24,RM,€10.00m,Olympique Lyon,AFC Bournemouth,€15.00m,23-24,summer,0,0,0,0,0,0,18,16,31,64.59
+27,J. Kluivert,24,LW,€14.00m,AS Roma,AFC Bournemouth,€10.80m,23-24,summer,0,0,0,0,0,0,19,20,35,74.22
+28,M. Aarons,23,RB,€16.00m,Norwich,AFC Bournemouth,€8.10m,23-24,summer,0,0,0,6,5,5,0,0,0,88.89
+29,B. Pearson,28,DM,€2.00m,AFC Bournemouth,Stoke City,€1.50m,23-24,summer,0,0,0,1,0,1,0,0,0,11.11
+30,J. Stacey,27,RB,€2.80m,AFC Bournemouth,Norwich,free transfer,23-24,summer,0,0,0,1,0,0,0,0,0,5.56
+31,J. Lerma,28,DM,€20.00m,AFC Bournemouth,Crystal Palace,free transfer,23-24,summer,0,0,0,4,4,6,0,0,0,77.78
+32,J. Zemura,23,LB,€6.00m,AFC Bournemouth,Udinese Calcio,free transfer,23-24,summer,0,0,0,4,4,2,0,0,0,55.56
+33,C. Saydee,21,CF,€400k,AFC Bournemouth,Portsmouth,?,23-24,summer,0,0,0,0,0,0,5,1,8,10.22
+34,S. Dembélé,26,LW,€2.20m,AFC Bournemouth,Birmingham,?,23-24,summer,0,0,0,0,0,0,4,5,5,12.0
+35,J. Stanislas,33,LW,€2.20m,AFC Bournemouth,Without Club,-,23-24,summer,0,0,0,0,0,0,1,5,7,9.48
+36,N. Collins,22,CB,€22.00m,Wolves,Brentford FC,€26.85m,23-24,summer,0,0,0,4,4,5,0,0,0,72.22
+37,K. Schade,21,RW,€25.00m,SC Freiburg,Brentford FC,€25.00m,23-24,summer,0,0,0,0,0,0,22,25,42,90.07
+38,M. Flekken,30,GK,€10.00m,SC Freiburg,Brentford FC,€13.00m,23-24,summer,24,89,2,0,0,0,0,0,0,63.67
+39,M. Bidstrup,22,CM,€9.00m,Brentford FC,RB Salzburg,€6.00m,23-24,summer,0,0,0,3,3,3,0,0,0,50.0
+40,H. Dervişoğlu,23,CF,€1.00m,Brentford FC,Galatasaray,€500k,23-24,summer,0,0,0,0,0,0,0,5,8,8.89
+41,S. Canós,26,RW,€2.50m,Brentford FC,Valencia,€250k,23-24,summer,0,0,0,0,0,0,0,2,8,4.89
+42,P. Jansson,32,CB,€1.50m,Brentford FC,Malmö FF,free transfer,23-24,summer,0,0,0,1,1,0,0,0,0,11.11
+43,J. Valencia,28,AM,€250k,Brentford FC,Z. Sosnowiec,free transfer,23-24,summer,0,0,0,0,0,0,1,3,8,7.56
+44,M. Bech Sörensen,24,CB,€2.50m,Brentford FC,FC Midtjylland,?,23-24,summer,0,0,0,1,1,0,0,0,0,11.11
+45,T. Fosu,27,LW,€900k,Brentford FC,Without Club,-,23-24,summer,0,0,0,0,0,0,5,3,5,10.67
+46,João Pedro,21,CF,€32.00m,Watford,Brighton & Hove Albion,€34.20m,23-24,summer,0,0,0,0,0,0,24,22,50,94.67
+47,C. Baleba,19,DM,€5.00m,LOSC Lille,Brighton & Hove Albion,€27.00m,23-24,summer,0,0,0,3,1,3,0,0,0,38.89
+48,B. Verbruggen,20,GK,€10.00m,RSC Anderlecht,Brighton & Hove Albion,€20.00m,23-24,summer,23,81,3,0,0,0,0,0,0,60.11
+49,Igor,25,CB,€10.00m,Fiorentina,Brighton & Hove Albion,€16.15m,23-24,summer,0,0,0,5,4,3,0,0,0,66.67
+50,J. Milner,37,CM,€1.50m,Liverpool,Brighton & Hove Albion,free transfer,23-24,summer,0,0,0,0,0,1,0,0,0,5.56
+51,M. Dahoud,27,CM,€12.00m,Bor. Dortmund,Brighton & Hove Albion,free transfer,23-24,summer,0,0,0,5,3,3,0,0,0,61.11
+52,M. Caicedo,21,DM,€80.00m,Brighton & Hove Albion,Chelsea,€116.00m,23-24,summer,0,0,0,4,5,5,0,0,0,77.78
+53,A. Mac Allister,24,CM,€70.00m,Brighton & Hove Albion,Liverpool,€42.00m,23-24,summer,0,0,0,4,6,6,0,0,0,88.89
+54,R. Sánchez,25,GK,€25.00m,Brighton & Hove Albion,Chelsea,€28.70m,23-24,summer,22,92,3,0,0,0,0,0,0,64.89
+55,A. Zeqiri,24,CF,€3.50m,Brighton & Hove Albion,KRC Genk,€2.75m,23-24,summer,0,0,0,0,0,0,1,1,9,5.63
+56,M. Karbownik,22,LB,€3.50m,Brighton & Hove Albion,Hertha BSC,€2.50m,23-24,summer,0,0,0,0,1,1,0,0,0,11.11
+57,R. Khadra,22,AM,€3.00m,Brighton & Hove Albion,Stade Reims,€1.90m,23-24,summer,0,0,0,0,0,0,3,2,9,9.63
+58,A. Connolly,23,CF,€2.50m,Brighton & Hove Albion,Hull City,€1.35m,23-24,summer,0,0,0,0,0,0,2,3,7,8.15
+59,H. Roberts,21,LB,€700k,Brighton & Hove Albion,Bristol City,free transfer,23-24,summer,0,0,0,1,0,1,0,0,0,11.11
+60,T. Richards,22,CM,€350k,Brighton & Hove Albion,QPR,?,23-24,summer,0,0,0,1,0,1,0,0,0,11.11
+61,Z. Amdouni,22,CF,€10.00m,FC Basel,Burnley FC,€18.60m,23-24,summer,0,0,0,0,0,0,19,17,39,73.19
+62,J. Trafford,20,GK,€15.00m,Man City U21,Burnley FC,€17.30m,23-24,summer,20,96,4,0,0,0,0,0,0,66.67
+63,A. Ramsey,20,AM,€5.00m,Aston Villa U21,Burnley FC,€16.45m,23-24,summer,0,0,0,0,0,0,7,5,13,21.93
+64,J. Beyer,23,CB,€16.00m,Bor. M'gladbach,Burnley FC,€15.00m,23-24,summer,0,0,0,6,5,5,0,0,0,88.89
+65,S. Berge,25,DM,€20.00m,Sheff Utd,Burnley FC,€13.90m,23-24,summer,0,0,0,5,4,4,0,0,0,72.22
+66,W. Odobert,18,LW,€6.00m,Troyes,Burnley FC,€12.00m,23-24,summer,0,0,0,0,0,0,10,15,23,46.67
+67,D. O'Shea,24,CB,€5.00m,West Brom,Burnley FC,€7.80m,23-24,summer,0,0,0,1,3,1,0,0,0,27.78
+68,M. Obafemi,22,CF,€5.00m,Swansea,Burnley FC,€4.00m,23-24,summer,0,0,0,0,0,0,9,6,13,25.93
+69,H. Delcroix,24,CB,€2.00m,RSC Anderlecht,Burnley FC,€3.00m,23-24,summer,0,0,0,1,1,0,0,0,0,11.11
+70,L. Koleosho,18,LW,€1.00m,RCD Espanyol B,Burnley FC,€3.00m,23-24,summer,0,0,0,0,0,0,3,3,5,8.0
+71,N. Redmond,29,RW,€10.00m,Besiktas,Burnley FC,free transfer,23-24,summer,0,0,0,0,0,0,20,20,35,75.56
+72,H. Massengo,22,DM,€5.00m,Bristol City,Burnley FC,free transfer,23-24,summer,0,0,0,2,2,3,0,0,0,38.89
+73,L. Vigouroux,29,GK,€300k,Leyton Orient,Burnley FC,free transfer,23-24,summer,18,74,4,0,0,0,0,0,0,51.78
+74,B. Thomas,22,CB,€2.50m,Burnley FC,Coventry,€2.30m,23-24,summer,0,0,0,1,1,0,0,0,0,11.11
+75,W. Norris,29,GK,€400k,Burnley FC,Portsmouth,free transfer,23-24,summer,17,77,6,0,0,0,0,0,0,56.56
+76,A. Barnes,33,CF,€500k,Burnley FC,Norwich,free transfer,23-24,summer,0,0,0,0,0,0,5,2,9,12.3
+77,M. Lowton,34,RB,€2.20m,Burnley FC,Without Club,-,23-24,summer,0,0,0,0,0,1,0,0,0,5.56
+78,R. Lavia,19,DM,€32.00m,Southampton,Chelsea FC,€62.10m,23-24,summer,0,0,0,6,5,4,0,0,0,83.33
+79,C. Nkunku,25,AM,€80.00m,RB Leipzig,Chelsea FC,€60.00m,23-24,summer,0,0,0,0,0,0,20,25,44,88.89
+80,C. Palmer,21,AM,€18.00m,Man City,Chelsea FC,€47.00m,23-24,summer,0,0,0,0,0,0,21,23,47,89.78
+81,A. Disasi,25,CB,€30.00m,Monaco,Chelsea FC,€45.00m,23-24,summer,0,0,0,5,4,6,0,0,0,83.33
+82,N. Jackson,22,CF,€30.00m,Villarreal,Chelsea FC,€37.00m,23-24,summer,0,0,0,0,0,0,24,22,43,89.48
+83,L. Ugochukwu,19,DM,€9.00m,Stade Rennais,Chelsea FC,€27.00m,23-24,summer,0,0,0,3,4,4,0,0,0,61.11
+84,D. Petrovic,23,GK,€6.00m,New England,Chelsea FC,€18.00m,23-24,summer,4,40,13,0,0,0,0,0,0,34.22
+85,Deivid Washington,18,CF,€4.00m,Santos,Chelsea FC,€16.00m,23-24,summer,0,0,0,0,0,0,9,5,15,26.07
+86,Ângelo,18,RW,€13.00m,Santos,Chelsea FC,€15.00m,23-24,summer,0,0,0,0,0,0,20,20,40,79.26
+87,D. Moreira,18,LW,€2.00m,Benfica B,Chelsea FC,free transfer,23-24,summer,0,0,0,0,0,0,0,0,10,3.7
+88,M. Mount,24,AM,€40.00m,Chelsea FC,Man Utd,€64.20m,23-24,summer,0,0,0,0,0,0,21,22,41,84.0
+89,M. Kovacic,29,CM,€30.00m,Chelsea FC,Man City,€29.10m,23-24,summer,0,0,0,6,5,6,0,0,0,94.44
+90,K. Koulibaly,32,CB,€11.00m,Chelsea FC,Al-Hilal,€23.00m,23-24,summer,0,0,0,4,3,3,0,0,0,55.56
+91,C. Pulisic,24,RW,€32.00m,Chelsea FC,AC Milan,€20.00m,23-24,summer,0,0,0,0,0,0,23,20,44,86.22
+92,R. Loftus-Cheek,27,CM,€25.00m,Chelsea FC,AC Milan,€18.50m,23-24,summer,0,0,0,4,6,4,0,0,0,77.78
+93,E. Mendy,31,GK,€10.00m,Chelsea FC,Al-Ahli,€18.50m,23-24,summer,21,82,5,0,0,0,0,0,0,62.44
+94,E. Ampadu,22,DM,€16.00m,Chelsea FC,Leeds,€8.10m,23-24,summer,0,0,0,5,5,5,0,0,0,83.33
+95,C. Hudson-Odoi,22,LW,€15.00m,Chelsea FC,Nottm Forest,€3.50m,23-24,summer,0,0,0,0,0,0,15,16,38,65.78
+96,A. Baba,29,LB,€1.50m,Chelsea FC,PAOK Salonika,free transfer,23-24,summer,0,0,0,1,0,0,0,0,0,5.56
+97,P. Aubameyang,34,CF,€4.00m,Chelsea FC,Marseille,free transfer,23-24,summer,0,0,0,0,0,0,6,5,14,21.33
+98,C. Azpilicueta,33,RB,€3.00m,Chelsea FC,Atlético Madrid,free transfer,23-24,summer,0,0,0,1,1,0,0,0,0,11.11
+99,T. Bakayoko,29,DM,€2.00m,Chelsea FC,FC Lorient,free transfer,23-24,summer,0,0,0,1,1,0,0,0,0,11.11
+100,N. Kanté,32,DM,€10.00m,Chelsea FC,Al-Ittihad,free transfer,23-24,summer,0,0,0,5,3,4,0,0,0,66.67
+101,Matheus França,19,AM,€9.00m,Flamengo,Crystal Palace,€20.00m,23-24,summer,0,0,0,0,0,0,20,15,39,71.85
+102,D. Henderson,26,GK,€18.00m,Man Utd,Crystal Palace,€17.50m,23-24,summer,22,93,1,0,0,0,0,0,0,61.0
+103,L. Milivojevic,32,DM,€1.50m,Crystal Palace,Shabab Al-Ahli,free transfer,23-24,summer,0,0,0,1,1,1,0,0,0,16.67
+104,J. Butland,30,GK,€3.00m,Crystal Palace,Rangers,free transfer,23-24,summer,1,40,15,0,0,0,0,0,0,34.67
+105,W. Zaha,30,LW,€14.00m,Crystal Palace,Galatasaray,free transfer,23-24,summer,0,0,0,0,0,0,15,17,39,67.85
+106,V. Guaita,36,GK,€900k,Crystal Palace,Celta de Vigo,free transfer,23-24,summer,3,43,9,0,0,0,0,0,0,25.67
+107,J. McArthur,35,CM,€2.20m,Crystal Palace,Retired,-,23-24,summer,0,0,0,1,1,0,0,0,0,11.11
+108,Beto,25,CF,€25.00m,Udinese Calcio,Everton FC,€25.00m,23-24,summer,0,0,0,0,0,0,25,24,41,92.0
+109,Chermiti,19,CF,€3.00m,Sporting CP,Everton FC,€12.50m,23-24,summer,0,0,0,0,0,0,1,5,5,8.0
+110,M. Kean,23,CF,€18.00m,Everton FC,Juventus,€30.00m,23-24,summer,0,0,0,0,0,0,21,23,44,87.56
+111,A. Iwobi,27,AM,€28.00m,Everton FC,Fulham,€25.70m,23-24,summer,0,0,0,0,0,0,23,22,49,92.59
+112,D. Gray,27,LW,€10.00m,Everton FC,Al-Ettifaq,€9.30m,23-24,summer,0,0,0,0,0,0,16,17,33,64.74
+113,T. Cannon,20,CF,€4.00m,Everton FC,Leicester,€8.80m,23-24,summer,0,0,0,0,0,0,8,6,19,29.04
+114,E. Simms,22,CF,€7.00m,Everton FC,Coventry,€7.00m,23-24,summer,0,0,0,0,0,0,11,13,30,50.52
+115,N. Nkounkou,22,LB,€7.50m,Everton FC,Saint-Étienne,€2.00m,23-24,summer,0,0,0,2,3,2,0,0,0,38.89
+116,T. Davies,25,CM,€6.00m,Everton FC,Sheff Utd,free transfer,23-24,summer,0,0,0,3,4,4,0,0,0,61.11
+117,A. Begovic,36,GK,€300k,Everton FC,QPR,free transfer,23-24,summer,16,75,5,0,0,0,0,0,0,51.89
+118,Y. Mina,28,CB,€3.00m,Everton FC,Fiorentina,free transfer,23-24,summer,0,0,0,0,1,0,0,0,0,5.56
+119,A. Townsend,31,RW,€1.80m,Everton FC,Without Club,-,23-24,summer,0,0,0,0,0,0,2,2,6,6.07
+120,J. Gbamin,27,DM,€2.50m,Everton FC,Without Club,-,23-24,summer,0,0,0,0,1,1,0,0,0,11.11
+121,C. Bassey,23,CB,€15.00m,Ajax,Fulham FC,€22.50m,23-24,summer,0,0,0,5,4,4,0,0,0,72.22
+122,T. Castagne,27,RB,€25.00m,Leicester,Fulham FC,€13.00m,23-24,summer,0,0,0,5,6,4,0,0,0,83.33
+123,R. Jiménez,32,CF,€6.00m,Wolves,Fulham FC,€6.40m,23-24,summer,0,0,0,0,0,0,13,14,24,50.07
+124,S. Benda,24,GK,€400k,Swansea,Fulham FC,€870k,23-24,summer,15,72,6,0,0,0,0,0,0,51.11
+125,A. Traoré,27,RW,€10.00m,Wolves,Fulham FC,free transfer,23-24,summer,0,0,0,0,0,0,16,19,39,71.85
+126,A. Mitrovic,28,CF,€28.00m,Fulham FC,Al-Hilal,€52.60m,23-24,summer,0,0,0,0,0,0,22,22,45,88.3
+127,S. Sessegnon,23,RB,€500k,Fulham FC,Wigan,free transfer,23-24,summer,0,0,0,0,1,1,0,0,0,11.11
+128,I. Cavaleiro,29,LW,€2.50m,Fulham FC,LOSC Lille,free transfer,23-24,summer,0,0,0,0,0,0,1,5,9,10.96
+129,A. Knockaert,31,RW,€450k,Fulham FC,Valenciennes FC,free transfer,23-24,summer,0,0,0,0,0,0,3,5,5,10.67
+130,S. Duffy,31,CB,€1.00m,Fulham FC,Norwich,free transfer,23-24,summer,0,0,0,0,0,0,0,0,0,0.0
+131,Joe Bryan,29,LB,€1.20m,Fulham FC,Millwall,free transfer,23-24,summer,0,0,0,0,0,0,0,0,0,0.0
+132,N. Kebano,31,LW,€1.50m,Fulham FC,Al-Jazira,free transfer,23-24,summer,0,0,0,0,0,0,5,1,9,10.96
+133,P. Gazzaniga,31,GK,€4.00m,Fulham FC,Girona,free transfer,23-24,summer,0,41,11,0,0,0,0,0,0,25.0
+134,D. Szoboszlai,22,CM,€50.00m,RB Leipzig,Liverpool FC,€70.00m,23-24,summer,0,0,0,4,4,5,0,0,0,72.22
+135,R. Gravenberch,21,CM,€30.00m,Bayern Munich,Liverpool FC,€40.00m,23-24,summer,0,0,0,6,6,6,0,0,0,100.0
+136,W. Endo,30,DM,€6.50m,VfB Stuttgart,Liverpool FC,€20.00m,23-24,summer,0,0,0,4,3,4,0,0,0,61.11
+137,Fabinho,29,DM,€35.00m,Liverpool FC,Al-Ittihad,€46.70m,23-24,summer,0,0,0,5,6,6,0,0,0,94.44
+138,J. Henderson,33,CM,€6.00m,Liverpool FC,Al-Ettifaq,€14.00m,23-24,summer,0,0,0,3,4,2,0,0,0,50.0
+139,A. Oxlade-Chamberlain,29,CM,€5.00m,Liverpool FC,Besiktas,free transfer,23-24,summer,0,0,0,3,2,3,0,0,0,44.44
+140,N. Keïta,28,CM,€4.00m,Liverpool FC,Werder Bremen,free transfer,23-24,summer,0,0,0,2,1,1,0,0,0,22.22
+141,Roberto Firmino,31,CF,€10.00m,Liverpool FC,Al-Ahli,free transfer,23-24,summer,0,0,0,0,0,0,16,20,32,68.0
+142,R. Giles,23,LB,€9.00m,Wolves,Luton Town,€5.85m,23-24,summer,0,0,0,4,4,5,0,0,0,72.22
+143,T. Chong,23,RW,€3.20m,Birmingham,Luton Town,€4.70m,23-24,summer,0,0,0,0,0,0,1,4,6,7.41
+144,M. Andersen,25,CB,€2.00m,Barnsley FC,Luton Town,€3.50m,23-24,summer,0,0,0,1,0,0,0,0,0,5.56
+145,J. Brown,25,CF,€6.00m,Stoke City,Luton Town,€2.90m,23-24,summer,0,0,0,0,0,0,15,15,30,58.52
+146,T. Kaminski,30,GK,€2.20m,Blackburn,Luton Town,€2.90m,23-24,summer,2,48,12,0,0,0,0,0,0,33.78
+147,C. Ogbene,26,RW,€2.00m,Rotherham,Luton Town,free transfer,23-24,summer,0,0,0,0,0,0,4,0,6,6.07
+148,R. Barkley,29,CM,€6.00m,OGC Nice,Luton Town,free transfer,23-24,summer,0,0,0,4,2,3,0,0,0,50.0
+149,Tim Krul,35,GK,€600k,Norwich,Luton Town,?,23-24,summer,15,70,5,0,0,0,0,0,0,47.78
+150,T. Mengi,21,CB,€2.00m,Man Utd,Luton Town,?,23-24,summer,0,0,0,0,1,1,0,0,0,11.11
+151,C. Mendes,24,RW,€300k,Luton Town,Bolton,€300k,23-24,summer,0,0,0,0,0,0,2,0,6,3.41
+152,S. Bradley,31,CB,€350k,Luton Town,Derby,free transfer,23-24,summer,0,0,0,1,1,0,0,0,0,11.11
+153,H. Isted,26,GK,€300k,Luton Town,Charlton,free transfer,23-24,summer,16,78,3,0,0,0,0,0,0,49.11
+154,L. Freeman,31,AM,€2.20m,Luton Town,Without Club,-,23-24,summer,0,0,0,0,0,0,1,3,9,8.3
+155,H. Lansbury,32,CM,€2.20m,Luton Town,Retired,-,23-24,summer,0,0,0,1,1,1,0,0,0,16.67
+156,Glen Rea,28,DM,€2.20m,Luton Town,Without Club,-,23-24,summer,0,0,0,1,1,1,0,0,0,16.67
+157,M. Macey,28,GK,€350k,Luton Town,Without Club,-,23-24,summer,16,72,4,0,0,0,0,0,0,48.0
+158,J. Gvardiol,21,LB,€75.00m,RB Leipzig,Manchester City,€90.00m,23-24,summer,0,0,0,4,5,6,0,0,0,83.33
+159,M. Nunes,25,CM,€45.00m,Wolves,Manchester City,€62.00m,23-24,summer,0,0,0,4,5,5,0,0,0,77.78
+160,J. Doku,21,LW,€28.00m,Stade Rennais,Manchester City,€60.00m,23-24,summer,0,0,0,0,0,0,24,22,40,87.26
+161,R. Mahrez,32,RW,€16.00m,Manchester City,Al-Ahli,€35.00m,23-24,summer,0,0,0,0,0,0,22,24,42,88.74
+162,A. Laporte,29,CB,€25.00m,Manchester City,Al-Nassr,€27.50m,23-24,summer,0,0,0,4,5,4,0,0,0,72.22
+163,Y. Herrera,25,CM,€20.00m,Manchester City,Girona,€5.00m,23-24,summer,0,0,0,6,4,4,0,0,0,77.78
+164,B. Mendy,29,LB,€2.00m,Manchester City,FC Lorient,free transfer,23-24,summer,0,0,0,0,1,1,0,0,0,11.11
+165,İ. Gündoğan,32,CM,€16.00m,Manchester City,Barcelona,free transfer,23-24,summer,0,0,0,6,6,6,0,0,0,100.0
+166,N. Bustos,24,CF,€4.20m,Manchester City,CA Talleres,free transfer,23-24,summer,0,0,0,0,0,0,7,10,20,33.78
+167,R. Højlund,20,CF,€45.00m,Atalanta BC,Manchester United,€73.90m,23-24,summer,0,0,0,0,0,0,21,22,47,88.44
+168,A. Onana,27,GK,€35.00m,Inter,Manchester United,€50.20m,23-24,summer,25,98,5,0,0,0,0,0,0,76.67
+169,A. Bayındır,25,GK,€11.00m,Fenerbahce,Manchester United,€5.00m,23-24,summer,24,91,1,0,0,0,0,0,0,62.56
+170,J. Evans,35,CB,€2.00m,Leicester,Manchester United,free transfer,23-24,summer,0,0,0,1,0,0,0,0,0,5.56
+171,A. Elanga,21,LW,€22.00m,Manchester United,Nottm Forest,€17.50m,23-24,summer,0,0,0,0,0,0,20,22,48,87.85
+172,Fred,30,CM,€19.00m,Manchester United,Fenerbahce,€9.74m,23-24,summer,0,0,0,4,6,5,0,0,0,83.33
+173,M. Kovar,23,GK,€5.00m,Manchester United,B. Leverkusen,€5.00m,23-24,summer,5,40,12,0,0,0,0,0,0,33.33
+174,A. Telles,30,LB,€7.00m,Manchester United,Al-Nassr,€4.60m,23-24,summer,0,0,0,4,4,3,0,0,0,61.11
+175,Z. Iqbal,20,CM,€1.00m,Manchester United,FC Utrecht,€1.00m,23-24,summer,0,0,0,0,1,0,0,0,0,5.56
+176,E. Bailly,29,CB,€3.50m,Manchester United,Besiktas,free transfer,23-24,summer,0,0,0,1,1,1,0,0,0,16.67
+177,A. Tuanzebe,25,CB,€2.20m,Manchester United,Without Club,-,23-24,summer,0,0,0,0,1,1,0,0,0,11.11
+178,P. Jones,31,CB,€2.20m,Manchester United,Without Club,-,23-24,summer,0,0,0,0,0,0,0,0,0,0.0
+179,D. de Gea,32,GK,€5.00m,Manchester United,Without Club,-,23-24,summer,1,44,10,0,0,0,0,0,0,25.78
+180,S. Tonali,23,DM,€50.00m,AC Milan,Newcastle United,€64.00m,23-24,summer,0,0,0,5,6,5,0,0,0,88.89
+181,H. Barnes,25,LW,€35.00m,Leicester,Newcastle United,€44.00m,23-24,summer,0,0,0,0,0,0,25,21,40,87.26
+182,T. Livramento,20,RB,€25.00m,Southampton,Newcastle United,€37.20m,23-24,summer,0,0,0,5,6,4,0,0,0,83.33
+183,Y. Minteh,18,RW,€2.00m,Odense BK,Newcastle United,€8.00m,23-24,summer,0,0,0,0,0,0,0,4,10,9.04
+184,A. Saint-Maximin,26,LW,€20.00m,Newcastle United,Al-Ahli,€27.20m,23-24,summer,0,0,0,0,0,0,20,24,44,87.56
+185,C. Wood,31,CF,€7.00m,Newcastle United,Nottm Forest,€17.00m,23-24,summer,0,0,0,0,0,0,14,10,24,46.07
+186,K. Darlow,32,GK,€300k,Newcastle United,Leeds,€400k,23-24,summer,16,75,5,0,0,0,0,0,0,51.89
+187,C. Clark,33,CB,€300k,Newcastle United,Without Club,-,23-24,summer,0,0,0,1,1,0,0,0,0,11.11
+188,M. Longstaff,23,CM,€900k,Newcastle United,Without Club,-,23-24,summer,0,0,0,0,0,1,0,0,0,5.56
+189,I. Sangaré,25,DM,€35.00m,PSV Eindhoven,Nottingham Forest,€35.00m,23-24,summer,0,0,0,6,4,4,0,0,0,77.78
+190,A. Omobamidele,21,CB,€6.00m,Norwich,Nottingham Forest,€12.85m,23-24,summer,0,0,0,3,3,2,0,0,0,44.44
+191,Murillo,21,CB,€3.50m,Corinthians,Nottingham Forest,€12.00m,23-24,summer,0,0,0,1,1,0,0,0,0,11.11
+192,N. Domínguez,25,CM,€17.00m,Bologna,Nottingham Forest,€10.00m,23-24,summer,0,0,0,4,4,4,0,0,0,66.67
+193,O. Vlachodimos,29,GK,€16.00m,Benfica,Nottingham Forest,€4.90m,23-24,summer,25,86,3,0,0,0,0,0,0,65.56
+194,Ola Aina,26,RB,€3.50m,Torino,Nottingham Forest,free transfer,23-24,summer,0,0,0,0,1,1,0,0,0,11.11
+195,B. Johnson,22,RW,€48.00m,Nottingham Forest,Tottenham,€55.00m,23-24,summer,0,0,0,0,0,0,23,23,43,89.48
+196,S. Surridge,24,CF,€5.50m,Nottingham Forest,Nashville,€5.80m,23-24,summer,0,0,0,0,0,0,6,5,10,18.37
+197,B. Ojeda,23,CM,€3.50m,Nottingham Forest,Salt Lake,€3.60m,23-24,summer,0,0,0,0,1,1,0,0,0,11.11
+198,M. Dräger,27,RB,€600k,Nottingham Forest,FC Basel,€420k,23-24,summer,0,0,0,0,0,0,0,0,0,0.0
+199,J. Colback,33,DM,€300k,Nottingham Forest,QPR,free transfer,23-24,summer,0,0,0,0,0,0,0,0,0,0.0
+200,J. Smith,28,GK,€150k,Nottingham Forest,Stockport,free transfer,23-24,summer,16,76,5,0,0,0,0,0,0,52.44
+201,Cafú,30,CM,€400k,Nottingham Forest,Rotherham,free transfer,23-24,summer,0,0,0,1,0,0,0,0,0,5.56
+202,S. Cook,32,CB,€600k,Nottingham Forest,QPR,?,23-24,summer,0,0,0,0,0,1,0,0,0,5.56
+203,G. Biancone,23,CB,€4.00m,Nottingham Forest,Olympiacos,?,23-24,summer,0,0,0,3,3,3,0,0,0,50.0
+204,A. Kanuric,22,GK,€150k,Nottingham Forest,Without Club,-,23-24,summer,18,73,5,0,0,0,0,0,0,53.44
+205,A. Ayew,33,LW,€1.20m,Nottingham Forest,Without Club,-,23-24,summer,0,0,0,0,0,0,5,1,7,9.48
+206,J. Lingard,30,AM,€6.00m,Nottingham Forest,Without Club,-,23-24,summer,0,0,0,0,0,0,13,10,20,41.78
+207,L. Taylor,33,CF,€125k,Nottingham Forest,Without Club,-,23-24,summer,0,0,0,0,0,0,5,5,9,16.3
+208,G. Hamer,26,CM,€8.00m,Coventry,Sheffield United,€17.30m,23-24,summer,0,0,0,5,4,4,0,0,0,72.22
+209,V. Souza,24,DM,€6.00m,Lommel SK,Sheffield United,€12.50m,23-24,summer,0,0,0,3,2,2,0,0,0,38.89
+210,B. Traoré,20,CF,€3.50m,Häcken,Sheffield United,€4.60m,23-24,summer,0,0,0,0,0,0,3,4,6,10.07
+211,A. Slimane,22,CM,€2.50m,Bröndby IF,Sheffield United,€2.70m,23-24,summer,0,0,0,0,1,0,0,0,0,5.56
+212,I. Ndiaye,23,CF,€18.00m,Sheffield United,Marseille,€17.00m,23-24,summer,0,0,0,0,0,0,23,20,43,85.48
+213,B. Sharp,37,CF,€200k,Sheffield United,Los Angeles,free transfer,23-24,summer,0,0,0,0,0,0,5,5,5,13.33
+214,E. Stevens,32,LB,€300k,Sheffield United,Stoke City,free transfer,23-24,summer,0,0,0,1,1,0,0,0,0,11.11
+215,J. Eastwood,26,GK,€100k,Sheffield United,Grimsby Town,?,23-24,summer,19,73,4,0,0,0,0,0,0,52.56
+216,J. O'Connell,29,CB,€2.20m,Sheffield United,Retired,-,23-24,summer,0,0,0,0,1,0,0,0,0,5.56
+217,K. Gordon,21,CB,€2.20m,Sheffield United,Without Club,-,23-24,summer,0,0,0,1,0,0,0,0,0,5.56
+218,J. Maddison,26,AM,€60.00m,Leicester,Tottenham Hotspur,€46.30m,23-24,summer,0,0,0,0,0,0,22,22,49,91.26
+219,M. van de Ven,22,CB,€30.00m,VfL Wolfsburg,Tottenham Hotspur,€40.00m,23-24,summer,0,0,0,4,5,4,0,0,0,72.22
+220,P. Porro,23,RB,€40.00m,Sporting CP,Tottenham Hotspur,€40.00m,23-24,summer,0,0,0,5,5,5,0,0,0,83.33
+221,D. Kulusevski,23,RW,€50.00m,Juventus,Tottenham Hotspur,€30.00m,23-24,summer,0,0,0,0,0,0,24,24,42,91.41
+222,G. Vicario,26,GK,€16.00m,FC Empoli,Tottenham Hotspur,€18.50m,23-24,summer,24,97,5,0,0,0,0,0,0,74.78
+223,A. Véliz,19,CF,€7.00m,Rosario Central,Tottenham Hotspur,€15.00m,23-24,summer,0,0,0,0,0,0,11,13,27,48.3
+224,A. Phillips,18,CB,€2.00m,Blackburn,Tottenham Hotspur,€2.30m,23-24,summer,0,0,0,0,0,0,0,0,0,0.0
+225,M. Solomon,23,LW,€18.00m,Shakhtar D.,Tottenham Hotspur,free transfer,23-24,summer,0,0,0,0,0,0,21,25,42,88.74
+226,H. Kane,30,CF,€110.00m,Tottenham Hotspur,Bayern Munich,€95.00m,23-24,summer,0,0,0,0,0,0,24,22,47,92.44
+227,H. Winks,27,DM,€12.00m,Tottenham Hotspur,Leicester,€11.60m,23-24,summer,0,0,0,4,5,4,0,0,0,72.22
+228,D. Sánchez,27,CB,€17.00m,Tottenham Hotspur,Galatasaray,€9.50m,23-24,summer,0,0,0,4,4,5,0,0,0,72.22
+229,Lucas Moura,30,RW,€5.00m,Tottenham Hotspur,São Paulo,free transfer,23-24,summer,0,0,0,0,0,0,6,8,12,23.85
+230,M. Kudus,23,AM,€40.00m,Ajax,West Ham United,€43.00m,23-24,summer,0,0,0,0,0,0,23,20,48,89.19
+231,E. Álvarez,25,DM,€35.00m,Ajax,West Ham United,€38.00m,23-24,summer,0,0,0,5,4,6,0,0,0,83.33
+232,J. Ward-Prowse,28,CM,€38.00m,Southampton,West Ham United,€34.80m,23-24,summer,0,0,0,6,5,6,0,0,0,94.44
+233,K. Mavropanos,25,CB,€15.00m,VfB Stuttgart,West Ham United,€20.00m,23-24,summer,0,0,0,4,3,4,0,0,0,61.11
+234,A. Irving,23,CM,€800k,A. Klagenfurt,West Ham United,€1.76m,23-24,summer,0,0,0,1,1,0,0,0,0,11.11
+235,G. Scamacca,24,CF,€25.00m,West Ham United,Atalanta BC,€25.50m,23-24,summer,0,0,0,0,0,0,23,21,47,89.78
+236,N. Vlašić,25,AM,€13.00m,West Ham United,Torino,€10.60m,23-24,summer,0,0,0,0,0,0,20,20,33,74.07
+237,A. Masuaku,29,LB,€5.00m,West Ham United,Besiktas,€2.00m,23-24,summer,0,0,0,2,3,3,0,0,0,44.44
+238,M. Lanzini,30,AM,€2.50m,West Ham United,River Plate,free transfer,23-24,summer,0,0,0,0,0,0,0,0,10,3.7
+239,M. Cunha,24,CF,€25.00m,Atlético Madrid,Wolverhampton Wanderers,€50.00m,23-24,summer,0,0,0,0,0,0,23,21,43,86.81
+240,J. Bellegarde,25,CM,€10.00m,R. Strasbourg,Wolverhampton Wanderers,€15.00m,23-24,summer,0,0,0,4,4,5,0,0,0,72.22
+241,S. Bueno,24,CB,€8.00m,Girona,Wolverhampton Wanderers,€12.00m,23-24,summer,0,0,0,4,5,5,0,0,0,77.78
+242,Tom King,28,GK,€175k,Northampton,Wolverhampton Wanderers,free transfer,23-24,summer,16,80,3,0,0,0,0,0,0,50.22
+243,M. Doherty,31,RB,€5.00m,Atlético Madrid,Wolverhampton Wanderers,free transfer,23-24,summer,0,0,0,3,2,1,0,0,0,33.33
+244,R. Neves,26,DM,€40.00m,Wolverhampton Wanderers,Al-Hilal,€55.00m,23-24,summer,0,0,0,5,5,4,0,0,0,77.78
+245,C. Coady,30,CB,€3.00m,Wolverhampton Wanderers,Leicester,€8.70m,23-24,summer,0,0,0,1,0,0,0,0,0,5.56
+246,H. Kawabe,27,CM,€4.50m,Wolverhampton Wanderers,Standard Liège,€1.50m,23-24,summer,0,0,0,3,3,2,0,0,0,44.44
+247,M. Sarkic,26,GK,€1.50m,Wolverhampton Wanderers,Millwall,€1.40m,23-24,summer,1,50,13,0,0,0,0,0,0,35.78
+248,Diego Costa,34,CF,€1.60m,Wolverhampton Wanderers,Botafogo,free transfer,23-24,summer,0,0,0,0,0,0,5,3,6,11.41
+249,J. Moutinho,36,CM,€800k,Wolverhampton Wanderers,SC Braga,free transfer,23-24,summer,0,0,0,1,1,0,0,0,0,11.11
